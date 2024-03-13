@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1>Welcome to Ministry of Petroleum and Natural Gas! (MoPNG</h1>
+<h1><font color='green'>Welcome to Ministry of Petroleum and Natural Gas! (MoPNG<font></h1>
 
-<h2>Under the Ownership of 	Government of India</h2>
+<h2><font color='red'>Under the Ownership of 	Government of India<font></h2>
 
 <h4><Always happy to serve the country with smile and grace></h4>
 
